@@ -29,3 +29,4 @@ certs/
 .DS_Store
 ~$*
 .env
+browser-data/
